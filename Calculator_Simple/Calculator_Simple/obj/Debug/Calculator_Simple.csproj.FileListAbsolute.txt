@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\Calculator_Simple\Calculator_Simple\bin\Calculator_Simple.dll
+c:\users\admin\documents\visual studio 2010\Projects\Calculator_Simple\Calculator_Simple\bin\Calculator_Simple.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Calculator_Simple\Calculator_Simple\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Calculator_Simple\Calculator_Simple\obj\Debug\Calculator_Simple.dll
+c:\users\admin\documents\visual studio 2010\Projects\Calculator_Simple\Calculator_Simple\obj\Debug\Calculator_Simple.pdb
